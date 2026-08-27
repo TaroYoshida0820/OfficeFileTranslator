@@ -86,4 +86,4 @@ Microsoft Copilot(Office製品)中心の環境でも使えるよう、VBA/Power 
 繁体字中国語・その他言語の用語集拡充
 補足
 
-本ツールはAnthropic Claudeとの協業で設計・実装しました。設計判断やコードの詳しい解説はnote記事(準備中)をご覧ください。
+本ツールはAnthropic Claudeとの協業で設計・実装しました。設計判断やコードの詳しい解説はnote記事(https://note.com/taroyoshida0820/n/na84b2ce8273c)をご覧ください。
